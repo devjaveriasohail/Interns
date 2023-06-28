@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  /* layer 1 css */
+  .screen-size {
+    width: 400px;
+    
+  }
+  .screen-bg {
+    background: rgba(211, 211, 211, 0.418) 50% / cover no-repeat;
+  }
+ 
+  .j {
+    border:5px solid red;
+  }
+   /* layer 2 css */
+   .logo{
+   background-image: url(./assets/covidLogo.png);
+   width: 73px;
+   height:70px;
+   background-repeat: no-repeat;
+   background-size: cover;
+position: relative;
+
+   }
